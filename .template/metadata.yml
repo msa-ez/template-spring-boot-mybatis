@@ -1,7 +1,8 @@
-name: Python
+name: Spring boot mybatis
 rating: 5
-imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/763aa080-b319-4928-bfec-18b3868ae477
-templateName: python
-description: It is widely used in web applications, software development, data science, and machine learning
+imageUrl: https://github.com/msa-ez/template-spring-boot-3/assets/123912988/a901ad8f-7548-42db-b4a4-67a34bfd9279
+templateName: spring-boot-mybatis
+description: Provides an environment to simplify and efficiently handle database query and mapping tasks.
 tags:
-  - Python
+  - Java
+  - Spring boot
