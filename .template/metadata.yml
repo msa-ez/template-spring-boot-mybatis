@@ -1,6 +1,6 @@
 name: Spring boot mybatis
 rating: 5
-imageUrl: https://github.com/msa-ez/topping-spring-boot-multitenancy-schema/assets/123912988/7503f414-2d2f-40e2-85d4-9e68ce22bc86
+imageUrl: https://github.com/msa-ez/topping-spring-boot-multitenancy-schema/assets/123912988/18b162ff-4411-4fcb-9cec-125fba0a4c5f
 description: Provides an environment to simplify and efficiently handle database query and mapping tasks.
 testModel: testmodel
 tags:
