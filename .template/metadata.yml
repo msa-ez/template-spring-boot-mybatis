@@ -1,6 +1,6 @@
 name: Spring boot mybatis
 rating: 5
-imageUrl: https://github.com/msa-ez/template-spring-boot-3/assets/123912988/2715a081-c57e-459b-802e-c573312bbd70
+imageUrl: https://github.com/msa-ez/template-spring-boot-3/assets/123912988/d6e30cc6-410c-48bf-af91-3e69271f2c9b
 description: Provides an environment to simplify and efficiently handle database query and mapping tasks.
 testModel: testmodel
 tags:
